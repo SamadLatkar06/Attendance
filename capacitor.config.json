@@ -1,0 +1,16 @@
+{
+  ""name"": "GeoAttend",
+  "displayName": "GeoAttend",
+  "version": "1.0.0",
+  "description": "Smart GPS-based Attendance System",
+  "main": "public/capacitor.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "SamadLatkar06",
+  "license": "MIT",
+  "appId": "com.geoattend.app",
+  "appName": "GeoAttend"
+}
